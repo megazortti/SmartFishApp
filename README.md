@@ -1,1 +1,1 @@
-# StrongFish
+# SmartFishApp
